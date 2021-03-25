@@ -1,7 +1,7 @@
 # Museum 2 landing page
-Mockup
+[Mockup](https://morozoleh.github.io/Museum_2/)
 
-DEMO LINK
+[DEMO LINK](https://morozoleh.github.io/Museum_2/)
 
 Made by using BEM methodology, JavaScript and SCSS preprocessor
 
